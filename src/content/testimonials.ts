@@ -30,3 +30,27 @@ export const testimonials: Testimonial[] = [
     rating: 5,
   },
 ];
+
+export const luxuryTestimonials: Testimonial[] = [
+  {
+    name: "Victoria Chen",
+    role: "CEO, Luxury Hospitality Group",
+    quote:
+      "Atlas Prestige redefined what white-glove service means. The Mercedes-Maybach was immaculate, and their attention to every detail made our executive visit unforgettable. They understand luxury.",
+    rating: 5,
+  },
+  {
+    name: "Prince Hassan Al-Mansouri",
+    role: "International Businessman",
+    quote:
+      "I've rented from the finest services in Europe and beyond. Atlas Prestige stands shoulder-to-shoulder with them. Their fleet, their people, their discretion—all impeccable.",
+    rating: 5,
+  },
+  {
+    name: "Catherine Laurent",
+    role: "Travel Editor, Prestige Magazine",
+    quote:
+      "From the moment our car arrived with champagne and pastries to the final handoff with a complimentary car wash—Atlas Prestige sets the standard for luxury car rental in North Africa.",
+    rating: 5,
+  },
+];
