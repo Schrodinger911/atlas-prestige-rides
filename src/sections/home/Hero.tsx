@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { ArrowUpRight } from "lucide-react";
 import { Container } from "@/components/layout/Container";
 import { hero } from "@/content/hero";
-import heroImage from "@/assets/hero.jpg";
+import heroImage from "@/assets/vehicles/porsche-cayenne.jpg";
 
 export function Hero() {
   return (
